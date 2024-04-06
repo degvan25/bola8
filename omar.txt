@@ -1,3 +1,7 @@
 Esta es la historia de omar yahir 
 ortega valenzuela uno de los magnates mas grandes de la historia
+<<<<<<< HEAD
 va a ir a llenar unos papeles y le gusta el Pedro
+=======
+Nos enfocaremos en un tipo de especia extraña
+>>>>>>> cabecera
